@@ -1,0 +1,291 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which sentence uses simple past tense?",
+        "options": [
+            "I am playing soccer.",
+            "I will play soccer.",
+            "I played soccer.",
+            "I play soccer."
+        ],
+        "correct": 2,
+        "explanation": "\"Played\" is the simple past tense form of \"play,\" indicating an action completed in the past."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Choose the simple past tense verb:",
+        "options": [
+            "sing",
+            "singing",
+            "sang",
+            "will sing"
+        ],
+        "correct": 2,
+        "explanation": "\"Sang\" is the simple past tense form of \"sing,\" showing a completed action in the past."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which sentence uses past continuous tense?",
+        "options": [
+            "She was singing in the choir.",
+            "She sang in the choir.",
+            "She sings in the choir.",
+            "She will sing in the choir."
+        ],
+        "correct": 0,
+        "explanation": "\"Was singing\" shows an ongoing action in the past, which is the past continuous tense."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Choose the past continuous tense verb (Jump):",
+        "options": [
+            "jump",
+            "jumped",
+            "jumping",
+            "was jumping"
+        ],
+        "correct": 3,
+        "explanation": "\"Was jumping\" indicates an action that was ongoing in the past, forming the past continuous tense."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+            "I was eating dinner when the doorbell ring.",
+            "I was eating dinner when the doorbell rang."
+        ],
+        "correct": 1,
+        "explanation": "This correctly uses past continuous for the ongoing action and simple past for the interrupting action. “Rang” is the past tense of “Ring.”"
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Which phrase completes the sentence in past continuous tense? \"While I _____ dinner, the phone rang.\"",
+        "options": [
+            "cooked",
+            "was cooking",
+            "cook",
+            "am cooking"
+        ],
+        "correct": 1,
+        "explanation": "\"Was cooking\" shows an action in progress when another action (the phone ringing) occurred, which is past continuous tense."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Select the correct verb form for this sentence: \"I _____ (read) a book when the lights went out.\"",
+        "options": [
+            "read",
+            "reading",
+            "reads",
+            "was reading"
+        ],
+        "correct": 3,
+        "explanation": "The ongoing action of reading was interrupted by the lights going out, so we used past continuous tense."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Which is the correct verb form? \"Last night, it _____ (rain) heavily.\"",
+        "options": [
+            "rained",
+            "was raining",
+            "rains",
+            "is raining"
+        ],
+        "correct": 0,
+        "explanation": "This describes a completed action in the past, so we use simple past tense."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Choose the correct verb form: \"While she _____ (sleep), the cat knocked over a vase.\"",
+        "options": [
+            "slept",
+            "was sleeping",
+            "sleeps",
+            "is sleeping"
+        ],
+        "correct": 1,
+        "explanation": "The sleeping was ongoing when the cat knocked over the vase, so we used past continuous tense."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Read the sentence and choose the correct verb form: \"I _____ (walk) to school every day last week.\"",
+        "options": [
+            "walked",
+            "was walking",
+            "am walking",
+            "walk"
+        ],
+        "correct": 0,
+        "explanation": "This describes a repeated action completed in the past, so we use simple past tense."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Which sentence is in the past continuous tense?",
+        "options": [
+            "I walk to school.",
+            "I was walking to school.",
+            "I walked to school.",
+            "I walks to school."
+        ],
+        "correct": 1,
+        "explanation": "“I was walking to school” shows an ongoing action in the past."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which sentence is in the past continuous tense?",
+        "options": [
+            "He fixed his bike.",
+            "He was fixing his bike.",
+            "He fixes his bike.",
+            "He is fixing his bike."
+        ],
+        "correct": 1,
+        "explanation": "“He was fixing his bike” shows an ongoing action in the past."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Which sentence shows an ongoing action in the past?",
+        "options": [
+            "She is watching TV.",
+            "She watched TV.",
+            "She watches TV.",
+            "She was watching TV."
+        ],
+        "correct": 3,
+        "explanation": "“She was watching TV” indicates an ongoing action in the past."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Which sentence is in the simple past tense?",
+        "options": [
+            "We were jumping on the trampoline.",
+            "We jump on the trampoline.",
+            "We jumped on the trampoline.",
+            "We are jumping on the trampoline."
+        ],
+        "correct": 2,
+        "explanation": "“We jumped on the trampoline” is in the simple past tense."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which sentence is in the present continuous tense?",
+        "options": [
+            "I was playing a game.",
+            "I played a game.",
+            "I play a game.",
+            "I am playing a game."
+        ],
+        "correct": 3,
+        "explanation": "“I am playing a game” shows an ongoing action happening now."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "The sentence “I was eating lunch” is in the simple past tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "The sentence “I was eating lunch” is in the past continuous tense, not the simple past tense."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "“She walked to the park” is an example of the past continuous tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "“She walked to the park” is in the simple past tense."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "“They were playing soccer” shows an action happening in the past.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "“They were playing soccer” is in the past continuous tense."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "“He eats breakfast every morning” is in the past continuous tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "“He eats breakfast every morning” is in the simple present tense."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "“I was reading a book” describes an action that was ongoing in the past.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "“I was reading a book” is in the past continuous tense."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "What is the past tense of the verb \"play\"?",
+        "options": [
+            "Played",
+            "Plaid",
+            "Plays",
+            "Plowed"
+        ],
+        "correct": 0,
+        "explanation": "\"Play\" is a regular verb. In the past tense, we add \"-ed\" to form \"played.\""
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "What is the past tense of the verb \"run\"?",
+        "options": [
+            "Runned",
+            "Ran",
+            "Runed",
+            "Running"
+        ],
+        "correct": 1,
+        "explanation": "\"Run\" is an irregular verb. The past tense is \"ran,\" not \"runned.\""
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "What is the past tense of the verb \"eat\"?",
+        "options": [
+            "Eated",
+            "Ate",
+            "Eats",
+            "Eating"
+        ],
+        "correct": 1,
+        "explanation": "\"Eat\" is an irregular verb. The past tense form is \"ate,\" not \"eated.\""
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "What is the past tense of the verb \"walk\"?",
+        "options": [
+            "Walked",
+            "Walking",
+            "Walk",
+            "Walks"
+        ],
+        "correct": 0,
+        "explanation": "\"Walk\" is a regular verb. We add \"-ed\" to make the past tense \"walked.\""
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "What is the past tense of the verb \"write\"?",
+        "options": [
+            "Wrote",
+            "Writed",
+            "Writing",
+            "Writes"
+        ],
+        "correct": 0,
+        "explanation": "\"Write\" is an irregular verb. The past tense form is \"wrote,\" not \"writed.\""
+    }
+
+]
